@@ -14,6 +14,5 @@
 ![UVa](https://github.com/Offliners/OJ/blob/main/UVa.png)
 ### [Link](https://github.com/Offliners/UVa-writeup)
 
-# HDLBits
-![HDLBits](https://github.com/Offliners/OJ/blob/main/HDLBits.jpg)
+# <img height="30px" width="30px" src="https://github.com/Offliners/OJ/blob/main/HDLBits.jpg" /> HDLBits
 ### [Link](https://github.com/Offliners/HDLBits-writeup)
